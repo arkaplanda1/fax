@@ -1,0 +1,42 @@
+
+
+
+
+"TXT_HOME" = "Startskærmen";
+"TXT__BUY_CREDIT" = "Køb Credits";
+"TXT_SETTING" = "Indstillinger";
+"TXT_SENDFAX" = "Send ny fax";
+"TXT_FAX_HISTORY" = "faxhistorik";
+"TXT_CREDITS" = "CREDITS";
+"TXT_FAX_PHONE" = "Fax telefonnummer";
+"TXT_COUNTRY_CODE" = "Landekode";
+"TXT_INVALID_FAX" = "Telefonnummeret er ugyldigt. Kontroller venligst!";
+"TXT_DOCUMENT_SEND" = "Vent venligst. Vi vil levere din fax i 2-3 minutter.";
+"TXT_GALLERY" = "Galleri";
+"TXT_SHARE" = "Del Denne App";
+"TXT_WRITE_COMMENT" = "Bedøm denne app";
+"TXT_OTHERAPP" = "Andre apps";
+"TXT_CONTACTUS" = "Kontakt os";
+"TXT_SENT" = "Sendt";
+"TXT_DURATION" = "Varighed (sekunder)";
+"TXT_STATUS" = "status";
+"TXT_MESSAGE" = "Besked";
+"TXT_MESSAGE_SENDT" = "Sendt!";
+"TXT_NETWORK" = "Forbindelsesfejl!";
+"TXT_WAIT" = "Vent venligst";
+
+"TXT_SEND" = "Send";
+"TXT_EMAIL" = "E-Mail";
+"TXT_CREDIT" ="Credit";
+
+"TXT_APP_SHARE" = "Bedste Fax Anvendelse på appstore. Download venligst.";
+"TXT_FLASH_OFF" = "Flash Off";
+"TXT_FLASH_ON" ="Flash On";
+"TXT_FAX" = "Fax";
+"TXT_BUSY" ="Travl";
+"TXT_NO_ANSWER" ="Intet svar";
+"TXT_OK" ="Okay";
+"TXT_COMPLETED" ="afsluttet";
+
+"TXT_FAXMACHINE_ERROR" ="Faxmaskine Fejl";
+

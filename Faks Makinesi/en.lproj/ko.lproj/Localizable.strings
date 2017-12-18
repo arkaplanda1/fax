@@ -1,0 +1,42 @@
+
+
+
+
+"TXT_HOME" = "홈 화면";
+"TXT__BUY_CREDIT" = "크레딧 구매";
+"TXT_SETTING" = "설정";
+"TXT_SENDFAX" = "새 팩스 보내기";
+"TXT_FAX_HISTORY" = "팩스 역사";
+"TXT_CREDITS" = "크레딧";
+"TXT_FAX_PHONE" = "팩스 전화 번호";
+"TXT_COUNTRY_CODE" = "국가 코드";
+"TXT_INVALID_FAX" = "전화 번호가 잘못되었습니다. 확인해주십시오!";
+"TXT_DOCUMENT_SEND" = "기다려주십시오. 우리는 2 ~ 3 분 안에 팩스를 제공합니다.";
+"TXT_GALLERY" = "갱도";
+"TXT_SHARE" = "이 응용 프로그램 공유";
+"TXT_WRITE_COMMENT" = "이 앱을 평가 해주세요";
+"TXT_OTHERAPP" = "다른 앱";
+"TXT_CONTACTUS" = "문의";
+"TXT_SENT" = "전송";
+"TXT_DURATION" = "지속 시간 (초)";
+"TXT_STATUS" = "지위";
+"TXT_MESSAGE" = "메시지";
+"TXT_MESSAGE_SENDT" = "성공적으로 전송!";
+"TXT_NETWORK" = "연결 오류!";
+"TXT_WAIT" = "잠시 기다려주십시오";
+
+"TXT_SEND" = "Send";
+"TXT_EMAIL" = "E-Mail";
+"TXT_CREDIT" ="Credit";
+
+"TXT_APP_SHARE" = "앱 스토어에서 가장 잘 팩스 응용 프로그램. 다운로드하십시오.";
+"TXT_FLASH_OFF" = "Flash Off";
+"TXT_FLASH_ON" ="Flash On";
+"TXT_FAX" = "팩스";
+"TXT_BUSY" ="바쁜";
+"TXT_NO_ANSWER" ="대답 원치 않음";
+"TXT_OK" ="승인";
+"TXT_COMPLETED" ="완료";
+
+"TXT_FAXMACHINE_ERROR" ="팩스 기계 오류";
+

@@ -1,0 +1,56 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#import "CommonHelper.h"
+#import "NetworkService.h"
+#import "IAPShare.h"
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+#define FONT_NAME @"MyriadPro-Cond"
+#define SIZE_BUTTON 22
+#define SIZE_BUTTON_IPAD 36
+
+#define SIZE_TEXT 22
+#define SIZE_TEXT_IPAD 33
+
+#define ScreenWidth      CGRectGetWidth([UIScreen mainScreen].bounds)
+#define ScreenHeight     CGRectGetHeight([UIScreen mainScreen].bounds)
+
+//#define IS_IPAD UI_USER_INTERFACE_IDIOM() == UIUserInterfaceIdiomPad
+
+#define IS_IPHONE_4 ( fabs( ( double )[ [ UIScreen mainScreen ] bounds ].size.height - ( double )480 ) < DBL_EPSILON )
+
+#define IAP_1 @"com.eroglu.ifm.1credit"
+#define IAP_10 @"com.eroglu.ifm.10credit"
+#define IAP_100 @"com.eroglu.ifm.100credit"
+#define IAP_2 @"com.eroglu.ifm.2credit"
+#define IAP_25 @"com.eroglu.ifm.25credit"
+#define IAP_5 @"com.eroglu.ifm.5credit"
+
+#define IDENTIFIER @"IDENTIFIER"
+#define NUMBER_FAX @"NUMBER_FAX"
+
+#define LINK_WS @"https://hemakgroup.com"
+
+#define DB_NAME @"faks.sqlite"
+#define APP_NAME @"Fax"
+
+#define APP_LINK @"https://itunes.apple.com/app/1308054359"
+#define ID_APP @"1308054359"
+
+#define IS_SANBOX 0
+
+

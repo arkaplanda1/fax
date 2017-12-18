@@ -1,0 +1,42 @@
+
+
+
+
+"TXT_HOME" = "Hemskärm";
+"TXT__BUY_CREDIT" = "Köp Krediter";
+"TXT_SETTING" = "inställningar";
+"TXT_SENDFAX" = "Skicka nytt fax";
+"TXT_FAX_HISTORY" = "Faxhistorik";
+"TXT_CREDITS" = "PROV";
+"TXT_FAX_PHONE" = "Fax Telefonnummer";
+"TXT_COUNTRY_CODE" = "Landskod";
+"TXT_INVALID_FAX" = "Telefonnumret är ogiltigt. Kontrollera!";
+"TXT_DOCUMENT_SEND" = "Vänta. Vi levererar din fax 2-3 minuter.";
+"TXT_GALLERY" = "Galleri";
+"TXT_SHARE" = "Dela denna appen";
+"TXT_WRITE_COMMENT" = "Betygsätt denna app";
+"TXT_OTHERAPP" = "Andra appar";
+"TXT_CONTACTUS" = "Kontakta oss";
+"TXT_SENT" = "sände";
+"TXT_DURATION" = "Varaktighet (sekunder)";
+"TXT_STATUS" = "Status";
+"TXT_MESSAGE" = "Meddelande";
+"TXT_MESSAGE_SENDT" = "Sände framgångsrikt!";
+"TXT_NETWORK" = "Anslutningsfel!";
+"TXT_WAIT" = "Vänta";
+
+"TXT_SEND" = "Send";
+"TXT_EMAIL" = "E-Mail";
+"TXT_CREDIT" ="Credit";
+
+"TXT_APP_SHARE" = "Bästa Fax Application på appstore. Ladda ner.";
+"TXT_FLASH_OFF" = "Flash Off";
+"TXT_FLASH_ON" ="Flash On";
+"TXT_FAX" = "Fax";
+"TXT_BUSY" ="Upptagen";
+"TXT_NO_ANSWER" ="Inget svar";
+"TXT_OK" ="Ok";
+"TXT_COMPLETED" ="Avslutad";
+
+"TXT_FAXMACHINE_ERROR" ="Fax Error";
+

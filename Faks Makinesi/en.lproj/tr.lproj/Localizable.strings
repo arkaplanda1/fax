@@ -1,0 +1,51 @@
+
+
+
+
+"TXT_HOME" ="Ana ekran";
+"TXT__BUY_CREDIT" ="Kredi satın al";
+"TXT_SETTING" ="Ayarlar";
+
+"TXT_SENDFAX" ="Yeni Faks Gönder";
+"TXT_FAX_HISTORY" = "Faks Geçmişi";
+
+"TXT_CREDITS" ="KREDİ";
+
+"TXT_FAX_PHONE" ="Faks Telefon Numarası";
+"TXT_COUNTRY_CODE" ="Ülke kodu";
+"TXT_INVALID_FAX" = "Telefon numarası geçersiz. Lütfen kontrol edin!";
+"TXT_DOCUMENT_SEND" = "Lütfen bekle. Biz 2-3 dakika içinde faksı teslim edecek.";
+"TXT_GALLERY" = "galeri";
+
+"TXT_SHARE" = "Bu uygulamayı paylaş";
+"TXT_WRITE_COMMENT" = "Bu uygulamayı oyla";
+"TXT_OTHERAPP" = "Diğer uygulamalar";
+"TXT_CONTACTUS" ="Bizimle iletişime geçin";
+
+"TXT_SENT" ="Gönderilen";
+"TXT_DURATION" ="Süresi (saniye)";
+"TXT_STATUS" ="durum";
+
+"TXT_MESSAGE" = "Mesaj";
+"TXT_MESSAGE_SENDT" = "Başarıyla gönderildi!";
+
+"TXT_NETWORK" ="Bağlantı hatası!";
+"TXT_WAIT" ="Lütfen bekle";
+
+"TXT_SEND" = "Send";
+"TXT_EMAIL" = "E-Mail";
+"TXT_CREDIT" ="Credit";
+
+"TXT_APP_SHARE" = "appstore üzerinde iyi Faks Uygulaması. indirin.";
+"TXT_FLASH_OFF" = "Flash Off";
+"TXT_FLASH_ON" ="Flash On";
+"TXT_FAX" = "Faks";
+"TXT_BUSY" ="Meşgul";
+"TXT_NO_ANSWER" ="Cevap yok";
+"TXT_OK" ="Tamam";
+"TXT_COMPLETED" ="Tamamlanan";
+
+"TXT_FAXMACHINE_ERROR" ="Faks Makinesi Hatası";
+
+"TXT_FAXMACHINE_ERROR" ="Faks Makinesi Hatası";
+

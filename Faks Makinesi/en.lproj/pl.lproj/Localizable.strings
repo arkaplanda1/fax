@@ -1,0 +1,62 @@
+
+
+
+
+"TXT_HOME" ="Home";
+"TXT__BUY_CREDIT" ="Buy Credits";
+"TXT_SETTING" ="Settings";
+
+"TXT_SENDFAX" ="Send New Fax";
+"TXT_FAX_HISTORY" = "Fax History";
+
+"TXT_CREDITS" ="CREDITS";
+
+"TXT_FAX_PHONE" ="Fax Phone Number";
+"TXT_COUNTRY_CODE" ="Country Code";
+"TXT_INVALID_FAX" = "The phone number is invalid. Please Check!";
+"TXT_DOCUMENT_SEND" = "Please wait. We will deliver your fax in 2-3 minutes.";
+
+"TXT_SHARE" = "Share This App";
+"TXT_WRITE_COMMENT" = "Rate This App";
+"TXT_OTHERAPP" = "Other Apps";
+"TXT_CONTACTUS" ="Contact Us";
+
+"TXT_SENT" ="Sent";
+"TXT_DURATION" ="Duration";
+"TXT_FAX_NUMBER" ="Fax Number";
+"TXT_STATUS" ="Status";
+
+"TXT_MESSAGE" = "Message";
+"TXT_MESSAGE_SENDT" = "Sent Successfully!";
+
+"TXT_NETWORK" ="Connection Error!";
+"TXT_WAIT" ="Please wait.";
+
+"TXT_SEND" = "Send";
+"TXT_EMAIL" = "E-Mail";
+"TXT_CREDIT" ="Credit";
+
+"TXT_GALLERY" = "GALLERY";
+
+"TXT_APP_SHARE" = "Best Fax Application on appstore. Please download.";
+"TXT_FLASH_OFF" = "Flash Off";
+"TXT_FLASH_ON" ="Flash On";
+"TXT_FAX" = "Fax";
+"TXT_BUSY" ="Busy";
+"TXT_NO_ANSWER" ="No Answer";
+"TXT_OK" ="Ok";
+"TXT_COMPLETED" ="Completed";
+
+"TXT_FAXMACHINE_ERROR" ="Faks Makinesi Hatası";
+
+
+"TXT_FAXMACHINE" ="Fax Machine";
+"TXT_PLEASE_ENTER" = "Please enter receiver number to send fax";
+"TXT_FAX" = "Fax";
+"TXT_RECEIVED" ="Received";
+"TXT_SEND_FAX" ="Sent Fax";
+"TXT_INVALID_MAIL" ="Invalid Mail";
+"TXT_MESSAGE_IS_REQUIRED" ="Message is required";
+
+"TXT_PURCHASE_COMPLETE" ="Purchase Completed";
+"TXT_CONVERT" = "Converting";
